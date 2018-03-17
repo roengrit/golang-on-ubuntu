@@ -7,4 +7,4 @@ sudo tar -C /usr/local  -xzf go1.10.linux-amd64.tar.gz
 # set environment
 export PATH=$PATH:/usr/local/go/bin
 
-create folder  home/go/src/<projectname> 
+create folder  home/go/src/[projectname]
